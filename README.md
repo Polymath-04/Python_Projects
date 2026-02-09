@@ -33,7 +33,7 @@ These projects showcase:
 - Ensemble approaches
 
 **Results:**
-- 92% forecast accuracy (MAPE)
+- Comprehensive EDA and SARIMAX forecasting model
 - Improved inventory optimization
 - Business impact: ~$50K annual savings
 
